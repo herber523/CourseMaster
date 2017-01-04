@@ -1,24 +1,22 @@
-# README
+== UNINOTE  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Uninote 東海大學選課相關資訊網站
+-----------------
+=== 開發環境
+* ruby 2.3.1
+* rails 5.0.1
+* sqlite
+* redis
+-----------------
+=== 以下是需要之內容
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
+* 課程爬蟲(以完成)
+* 課程爬蟲管理介面
+* 課程api
+* 會員系統 串Facebook
+* 排課表
+* 老師資訊 & 老師開課明細
+* 教室課表
+* 課程下面的留言
+* 留言管理介面(需設計權限)
 * ...
